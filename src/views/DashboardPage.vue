@@ -101,7 +101,7 @@
                                         <v-avatar color="primary" size="28" class="mr-2">
                                             <span class="text-white text-caption font-weight-bold">{{
                                                 symbol.charAt(0)
-                                                }}</span>
+                                            }}</span>
                                         </v-avatar>
                                         <div class="text-subtitle-1 font-weight-bold">{{ symbol }}</div>
                                     </div>
